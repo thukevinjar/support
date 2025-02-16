@@ -21,7 +21,7 @@ Each offence category is split into many subcategories, providing a more specifi
 
 ### Cheating
 
-Points: 10
+Points: 100
 
 Punishment type: Ban
 
@@ -38,7 +38,7 @@ Punishment type: Ban
 
 ### Prohibited Addon/Mod
 
-Points: 2
+Points: 50
 
 Punishment type: Ban
 
@@ -49,7 +49,7 @@ Punishment type: Ban
 
 ### Teaming
 
-Points: 2
+Points: 50
 
 Punishment type: Ban
 
@@ -59,7 +59,7 @@ Punishment type: Ban
 
 ### Abusive Communication
 
-Points: 2 (unless otherwise specified)
+Points: 50 (unless otherwise specified)
 
 Punishment type: Mute
 
@@ -71,7 +71,7 @@ Punishment type: Mute
 
 ### Inappropriate Behaviour
 
-Points: 2
+Points: 50
 
 Punishment type: Ban
 
@@ -80,7 +80,7 @@ Punishment type: Ban
 
 ### Advertising
 
-Points: 4
+Points: 50
 
 Punishment type: Mute
 
